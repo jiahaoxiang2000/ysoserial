@@ -1,5 +1,6 @@
 # java
 *.class
+*.ser
 
 # mvn
 target/
@@ -15,3 +16,4 @@ target/
 
 # tests
 pwntest
+.factorypath
